@@ -1,4 +1,4 @@
-package AndAR.LittleBox.util;
+package andar.littlebox.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

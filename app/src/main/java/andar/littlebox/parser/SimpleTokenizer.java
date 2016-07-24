@@ -1,4 +1,4 @@
-package AndAR.LittleBox.parser;
+package andar.littlebox.parser;
 
 public class SimpleTokenizer {
 	String str = "";

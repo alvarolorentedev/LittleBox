@@ -17,16 +17,16 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.parser;
+package andar.littlebox.parser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.Vector;
-import AndAR.LittleBox.models.Group;
-import AndAR.LittleBox.models.Model;
-import AndAR.LittleBox.util.BaseFileUtil;
+
+import andar.littlebox.models.Group;
+import andar.littlebox.models.Model;
+import andar.littlebox.util.BaseFileUtil;
 
 /**
  * Simple obj parser.

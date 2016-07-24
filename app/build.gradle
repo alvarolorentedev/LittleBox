@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 17
+    compileSdkVersion 24
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "AndAR.LittleBox"
-        minSdkVersion 3
-        targetSdkVersion 4
+        applicationId "andar.littlebox"
+        minSdkVersion 7
+        targetSdkVersion 24
     }
 
     buildTypes {

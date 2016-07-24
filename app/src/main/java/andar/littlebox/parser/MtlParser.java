@@ -17,19 +17,14 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.parser;
+package andar.littlebox.parser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.regex.Pattern;
 
-import AndAR.LittleBox.models.Material;
-import AndAR.LittleBox.models.Model;
-import AndAR.LittleBox.util.BaseFileUtil;
-
-
-import android.R;
-import android.graphics.BitmapFactory;
+import andar.littlebox.models.Material;
+import andar.littlebox.models.Model;
+import andar.littlebox.util.BaseFileUtil;
 
 
 public class MtlParser { 

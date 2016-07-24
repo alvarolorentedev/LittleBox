@@ -1,10 +1,8 @@
-package AndAR.LittleBox.util;
+package andar.littlebox.util;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
-
-import android.content.res.Resources;
 
 public class MemUtil {
 	public static FloatBuffer makeFloatBufferFromArray(float[] arr) {

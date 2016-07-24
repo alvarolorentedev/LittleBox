@@ -17,7 +17,7 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.graphics;
+package andar.littlebox.graphics;
 
 import java.io.Serializable;
 import java.io.Writer;
@@ -27,14 +27,13 @@ import java.util.Vector;
 
 import javax.microedition.khronos.opengles.GL10;
 
-import android.opengl.GLDebugHelper;
 import android.opengl.GLUtils;
 import android.util.Log;
 
 import edu.dhbw.andar.ARObject;
-import AndAR.LittleBox.models.Group;
-import AndAR.LittleBox.models.Material;
-import AndAR.LittleBox.models.Model;
+import andar.littlebox.models.Group;
+import andar.littlebox.models.Material;
+import andar.littlebox.models.Model;
 
 
 /**

@@ -1,4 +1,4 @@
-package AndAR.LittleBox.graphics;
+package andar.littlebox.graphics;
 
 import java.nio.FloatBuffer;
 

@@ -17,16 +17,14 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.models;
+package andar.littlebox.models;
 
 import java.io.Serializable;
-import java.nio.ByteBuffer;
 import java.nio.FloatBuffer;
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.Vector;
 
-import AndAR.LittleBox.util.MemUtil;
+import andar.littlebox.util.MemUtil;
 
 /**
  * a group of faces.

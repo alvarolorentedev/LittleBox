@@ -1,4 +1,4 @@
-package AndAR.LittleBox.util;
+package andar.littlebox.util;
 
 // Much of this is adapted from the beartronics FP lib
 public class FixedPointUtils {

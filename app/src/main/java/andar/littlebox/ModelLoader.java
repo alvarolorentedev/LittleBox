@@ -2,16 +2,15 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package AndAR.LittleBox;
+package andar.littlebox;
 
-import AndAR.LittleBox.graphics.LightingRenderer;
-import AndAR.LittleBox.graphics.Model3D;
-import AndAR.LittleBox.models.Model;
-import AndAR.LittleBox.parser.ObjParser;
-import AndAR.LittleBox.parser.ParseException;
-import AndAR.LittleBox.util.AssetsFileUtil;
-import AndAR.LittleBox.util.BaseFileUtil;
-import android.app.ProgressDialog;
+import andar.littlebox.graphics.Model3D;
+import andar.littlebox.models.Model;
+import andar.littlebox.parser.ObjParser;
+import andar.littlebox.parser.ParseException;
+import andar.littlebox.util.AssetsFileUtil;
+import andar.littlebox.util.BaseFileUtil;
+
 import android.os.Bundle;
 import edu.dhbw.andar.ARToolkit;
 import edu.dhbw.andar.AndARActivity;
@@ -19,7 +18,6 @@ import edu.dhbw.andar.exceptions.AndARException;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  *

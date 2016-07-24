@@ -1,4 +1,4 @@
-package AndAR.LittleBox.util;
+package andar.littlebox.util;
 
 public class MatrixUtils {
     

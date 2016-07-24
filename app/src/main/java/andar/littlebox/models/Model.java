@@ -17,17 +17,14 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.models;
+package andar.littlebox.models;
 
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Vector;
 
-import AndAR.LittleBox.util.BaseFileUtil;
+import andar.littlebox.util.BaseFileUtil;
 
 public class Model implements Serializable{
 	//position/rotation/scale

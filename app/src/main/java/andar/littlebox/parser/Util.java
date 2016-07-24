@@ -17,7 +17,7 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.parser;
+package andar.littlebox.parser;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

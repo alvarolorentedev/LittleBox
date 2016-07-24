@@ -17,22 +17,20 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.graphics;
+package andar.littlebox.graphics;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Vector;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
-import AndAR.LittleBox.models.Vector3D;
-import AndAR.LittleBox.util.MemUtil;
+import andar.littlebox.models.Vector3D;
+import andar.littlebox.util.MemUtil;
 
 
 import android.opengl.GLSurfaceView;
 import android.opengl.GLU;
-import android.util.Log;
 
 /**
  * cares about 3d rendering of the scene

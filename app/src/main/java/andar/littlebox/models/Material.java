@@ -17,16 +17,15 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.models;
+package andar.littlebox.models;
 
 import java.io.Serializable;
 import java.nio.FloatBuffer;
 
 import android.graphics.Bitmap;
 
-import AndAR.LittleBox.util.ArrayIterator;
-import AndAR.LittleBox.util.BaseFileUtil;
-import AndAR.LittleBox.util.MemUtil;
+import andar.littlebox.util.BaseFileUtil;
+import andar.littlebox.util.MemUtil;
 
 public class Material implements Serializable {
 	//default values:

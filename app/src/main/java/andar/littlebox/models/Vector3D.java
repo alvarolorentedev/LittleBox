@@ -17,7 +17,7 @@
     along with AndObjViewer.  If not, see <http://www.gnu.org/licenses/>.
  
  */
-package AndAR.LittleBox.models;
+package andar.littlebox.models;
 
 import java.io.Serializable;
 
